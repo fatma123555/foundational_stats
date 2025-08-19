@@ -24,3 +24,7 @@ The `tips` dataset is simple, widely used in teaching, and contains both **categ
 - Move from descriptive exploration toward **statistical testing**.
 
 This repo is not about building a predictive model but about building a **strong, structured workflow for EDA**, showing the thought process as well as the results.
+
+---
+
+_Note: This README was drafted with the assistance of AI (ChatGPT) and then reviewed/edited by me._
