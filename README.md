@@ -12,10 +12,8 @@ It includes notebooks, datasets, and reports exploring descriptive and inferenti
 - **data/** → Raw datasets (e.g., `tips.csv`)
 - **descriptive statistics/** → Practice notebooks and feedback related to descriptive statistics
   - `descriptive_practice.ipynb` → Notebook with exercises and analysis
-  - `feedback.md` → Review notes and improvement suggestions
 - **simple EDA/** → Applied EDA project
   - `eda_report.ipynb` → Full EDA notebook on the tips dataset
-  - `README.md` → Project-specific documentation
 
 ---
 
